@@ -1,0 +1,1 @@
+--This is an empty file. A valid COOL program must have atleast one class.

@@ -1,0 +1,9 @@
+CaSe
+True
+fAlSe
+WWHiLe
+If
+isVOid
+string
+fi
+PoOl
